@@ -1,0 +1,12 @@
+First create a git repository 
+
+then open terminal and type git init (means initialising the repository)
+
+git branch -m main (I am renaming the master brnach to main)
+
+git add . (add all the files which needs to be push)
+
+git commit -m "react 2026"
+
+git push -u origin main
+
